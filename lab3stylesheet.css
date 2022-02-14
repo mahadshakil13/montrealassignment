@@ -1,0 +1,66 @@
+.title{
+ font-family: "Brush Script MT", cursive;
+ text-align: center;
+ color: white;
+ margin-top:0%;
+ margin-bottom:0%;
+ text-decoration: underline black;
+  -webkit-text-stroke: 2px red;
+  
+}
+
+.welcome{
+	color:black;
+	margin-right:55%;
+	}
+	
+.left{
+	margin-left:25%;
+
+}
+
+.leftimg{
+	margin-left:7%;
+	
+}
+
+.leftdesc{
+	margin-left: 15%;
+	margin-right:60%;
+	
+}
+
+.right{
+	margin-left:15%;
+}
+
+.rightimg{
+	margin-left:18%
+	
+}
+
+.rightdesc{
+	margin-left: 5%;
+	margin-right:70%;
+	
+}
+
+.tourist{
+	margin-bottom:3.5%;
+	margin-top:2.5%;
+}
+aside {
+	margin-right: 40%;
+/*background-image:url("New-England-Maple-Tree-.jpg");*/
+}
+.funfacts{
+	margin-left:65%;
+	margin-top:-10%;
+}
+.food{
+	margin-top:5%;
+	margin-left: 65%;
+}
+.foodpic{
+	margin-left:30%;
+}
